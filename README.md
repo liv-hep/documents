@@ -13,3 +13,9 @@ production at the LHC and future hadron colliders](https://link.springer.com/con
 ## slides
 * [Collider tests of Lorentz Invariance](https://iucss.sitehost.iu.edu/sme2021/lectures/Chanon.pdf) -- SME2021 - 23/05/2021 - IUCSS   
 
+
+## pages and blogs  
+* [Breaking Lorentz symmetry](https://physicsworld.com/a/breaking-lorentz-symmetry/) -- physics world   
+
+
+
